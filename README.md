@@ -1,3 +1,8 @@
+# Nama Anggota:
+  - Priya Yudha Prakasa (202110370311306)
+  - Ahmad Reva Elmiawan (202110370311442)
+  - Aditya Afrian Aunur Chandra (202110370311456)
+
 # Laporan Analisis Pembatalan Reservasi Hotel
 
 ## 1. Pendahuluan
